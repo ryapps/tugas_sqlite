@@ -4,12 +4,12 @@ Tokline
 
 ## Home Page
 
-![Home View](assets\home_view.jpeg)
+![Home View](assets/home_view.jpeg)
 
 ## Add Product
 
-![Home View](assets\add_produk.jpeg)
+![Add Product](assets/add_produk.jpeg)
 
 ## Detail Product
 
-![Home View](assets\detail_produk.jpeg)
+![Detail Product](assets/detail_produk.jpeg)
